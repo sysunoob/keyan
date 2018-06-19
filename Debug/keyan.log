@@ -1,0 +1,10 @@
+﻿  Main.cpp
+f:\系分\keyan\keyan\shader.h(59): warning C4101: 'infoLog': unreferenced local variable
+f:\系分\keyan\keyan\shader.h(58): warning C4101: 'success': unreferenced local variable
+f:\系分\keyan\keyan\main.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\系分\keyan\keyan\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+f:\系分\keyan\keyan\main.cpp(334): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\系分\keyan\keyan\main.cpp(335): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\系分\keyan\keyan\main.cpp(336): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  keyan.vcxproj -> F:\系分\keyan\keyan\Debug\keyan.exe
+  keyan.vcxproj -> F:\系分\keyan\keyan\Debug\keyan.pdb (Partial PDB)
