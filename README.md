@@ -1,3 +1,3 @@
 # keyan
 
-marching tetrahedron for EMDBank
+marching tetrahedron for EMDB
